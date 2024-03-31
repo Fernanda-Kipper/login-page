@@ -13,4 +13,11 @@ form {
         color: $secondary-color;
         text-align: end;
     }
+
+    .mensage-error-class {
+        margin-top: -15px;
+        padding-left: 5px;
+        font-size: smaller;
+        color: red;
+    }
 }
